@@ -1,4 +1,4 @@
-# Separable Convolution Network with Dual-stream Pyramid Enhanced Strategy for Speech Steganalysis
+<center># Separable Convolution Network with Dual-stream Pyramid Enhanced Strategy for Speech Steganalysis</center>
 Code for TIFS 2023 paper:
 
 Separable Convolution Network with Dual-stream Pyramid Enhanced Strategy for Speech Steganalysis
