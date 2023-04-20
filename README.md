@@ -39,7 +39,7 @@ Yiqin Qiu<sup>1</sup>, Hui Tian<sup>2,*</sup>, Haizhou Li<sup>3</sup>, Chin-Chen
 
 Downloading the weights of trained models and place them into `model_weights/`.
 
-There are two option links to download: [GoogleDrive](https://drive.google.com/file/d/1nHUFkQneQuRT1W0q1mKkT9aqxdx8Qjki/view?usp=sharing) and BaiduNetDisk(TODO).
+There are two option links to download: [GoogleDrive](https://drive.google.com/file/d/1nHUFkQneQuRT1W0q1mKkT9aqxdx8Qjki/view?usp=sharing) and [BaiduNetDisk](https://pan.baidu.com/s/10q35PD8VYU2wwZe3ugG8ig)(PW: dq0n).
 
 ```
 ${SepSteNetwithDPES}
@@ -77,7 +77,7 @@ ${SepSteNetwithDPES}
 |-- other python codes, LICENSE, and README files
 ```
 
-There are two option links to download: [GoogleDrive](https://drive.google.com/file/d/14n9T5BVYC7f_8QUVNXB0m_hh-iutfQQg/view?usp=sharing), [Kaggle Repo](https://www.kaggle.com/datasets/barryxxz/sepstenetwithdpes), and BaiduNetDisk(TODO).
+There are two option links to download: [GoogleDrive](https://drive.google.com/file/d/14n9T5BVYC7f_8QUVNXB0m_hh-iutfQQg/view?usp=sharing), [Kaggle Repo](https://www.kaggle.com/datasets/barryxxz/sepstenetwithdpes), and [BaiduNetDisk](https://pan.baidu.com/s/1IqoVjrZwNXcxkm-KJL2uBQ)(PW: h3ts).
 
 ------
 
