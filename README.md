@@ -1,5 +1,4 @@
 #  Separable Convolution Network with Dual-stream Pyramid Enhanced Strategy for Speech Steganalysis
-
 Code for TIFS 2023 paper:
 
 Separable Convolution Network with Dual-stream Pyramid Enhanced Strategy for Speech Steganalysis
@@ -7,8 +6,6 @@ Separable Convolution Network with Dual-stream Pyramid Enhanced Strategy for Spe
 Yiqin Qiu<sup>1</sup>, Hui Tian<sup>2,*</sup>, Haizhou Li<sup>3</sup>, Chin-Chen Chang<sup>4</sup>, Athanasios V. Vasilakos<sup>5</sup>
 
 ![framework](./framework.png)
-
-[TOC]
 
 ## 🏁 Quick Start
 
@@ -95,8 +92,3 @@ This project is released under the MIT license. See [LICENSE](https://github.com
 ## 😊 Citation
 
 If you find the code and dataset useful in your research, please consider citing our paper.
-
-
-
-
-
