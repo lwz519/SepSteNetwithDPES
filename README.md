@@ -101,4 +101,13 @@ This project is released under the MIT license. See [LICENSE](https://github.com
 
 ## 😊 Citation
 
-If you find the code and dataset useful in your research, please consider citing our paper.
+If you find the code and dataset useful in your research, please consider citing our paper:
+```
+@article{qiu2023sepstenet,
+  title={Separable Convolution Network with Dual-stream Pyramid Enhanced Strategy for Speech Steganalysis},
+  author={Qiu, Yiqin and Tian, Hui and Li, Haizhou and Chang, Chin-Chen and Vasilakos, A. V.},
+  journal={IEEE Transactions on Information Forensics and Security},
+  year={2023},
+  publisher={IEEE}
+}
+```
