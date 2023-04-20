@@ -4,9 +4,11 @@ Code for TIFS 2023 paper:
 
 Separable Convolution Network with Dual-stream Pyramid Enhanced Strategy for Speech Steganalysis
 
-Yiqin Qiu, Hui Tian, Haizhou Li, Chin-Chen Chang, Athanasios V. Vasilakos
+Yiqin Qiu<sup>1</sup>, Hui Tian<sup>2,*</sup>, Haizhou Li<sup>3</sup>, Chin-Chen Chang<sup>4</sup>, Athanasios V. Vasilakos<sup>5</sup>
 
 ![framework](./framework.png)
+
+[TOC]
 
 ## 🏁 Quick Start
 
@@ -68,7 +70,7 @@ ${SepSteNetwithDPES}
 |-- other python codes, LICENSE, and README files
 ```
 
-There are two option links to download: GoogleDrive(TODO), [Kaggle](https://www.kaggle.com/datasets/barryxxz/sepstenetwithdpes), and BaiduNetDisk(TODO).
+There are two option links to download: [GoogleDrive](https://drive.google.com/file/d/14n9T5BVYC7f_8QUVNXB0m_hh-iutfQQg/view?usp=sharing), [Kaggle](https://www.kaggle.com/datasets/barryxxz/sepstenetwithdpes), and BaiduNetDisk(TODO).
 
 ------
 
