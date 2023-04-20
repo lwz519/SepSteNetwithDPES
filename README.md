@@ -6,6 +6,7 @@ Separable Convolution Network with Dual-stream Pyramid Enhanced Strategy for Spe
 
 Yiqin Qiu, Hui Tian, Haizhou Li, Chin-Chen Chang, Athanasios V. Vasilakos
 
+![icon](![framework](https://img.shields.io/depfu/dependencies/github/BarryxxZ/SepSteNetwithDPES)
 ![framework](./framework.png)
 
 ## 🏁 Quick Start
