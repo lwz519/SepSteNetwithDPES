@@ -7,6 +7,15 @@ Yiqin Qiu<sup>1</sup>, Hui Tian<sup>2,*</sup>, Haizhou Li<sup>3</sup>, Chin-Chen
 
 ![framework](./framework.png)
 
+- [Separable Convolution Network with Dual-stream Pyramid Enhanced Strategy for Speech Steganalysis](#separable-convolution-network-with-dual-stream-pyramid-enhanced-strategy-for-speech-steganalysis)
+  - [🏁 Quick Start](#-quick-start)
+    - [⚙️ Installation Dependencies:](#️-installation-dependencies)
+    - [📥 Download Model Weights:](#-download-model-weights)
+    - [📩 Download Dataset:](#-download-dataset)
+    - [💻 Starting inference](#-starting-inference)
+  - [📚 License](#-license)
+  - [😊 Citation](#-citation)
+
 ## 🏁 Quick Start
 
 ### ⚙️ Installation Dependencies:
